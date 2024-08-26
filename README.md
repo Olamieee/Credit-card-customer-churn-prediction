@@ -5,7 +5,7 @@ This project predicts whether a customer will churn based on various features su
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-churn.git
+   git clone https://github.com/Olamieee/credit-card-churn.git
    cd credit-card-churn
    ```
 2. Install the required packages:
